@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/call"
+            android:icon="@drawable/call"
+            android:title="Call"/>
+
+        <item
+            android:id="@+id/friend"
+            android:icon="@drawable/friend"
+            android:title="Friend"/>
+
+        <item
+            android:id="@+id/location"
+            android:icon="@drawable/location"
+            android:title="Location"/>
+
+        <item
+            android:id="@+id/email"
+            android:icon="@drawable/email"
+            android:title="Email"/>
+
+        <item
+            android:id="@+id/keep"
+            android:icon="@drawable/keep"
+            android:title="Keep"/>
+
+    </group>
+
+</menu>
